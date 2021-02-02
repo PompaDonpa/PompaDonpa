@@ -15,7 +15,7 @@
         <br></br>
       <li>Full Stack Web Developer 7.1 Fellow at <a href="https://www.pursuit.org/" target="_blank" style="italic">Pursuit.org</a> </li>
       <li>AI - Theory of Mind, Reacting Machines</li>
-      <li>Blockchain technolog advocate</li>
+      <li>Blockchain technology advocate</li>
       <li>UI / UX , Database designer</li>
       <li>Austrian School Investor </li>
       </ul><br />
