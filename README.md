@@ -1,5 +1,5 @@
 <div align="center">
-<h1> <a href="https://excelwithbusiness.com/blog/say-hello-world-in-28-different-programming-languages/" title="Hello World! in 28 programming languages">👋🏼</a> <a href="https://ozanerhansha.medium.com/on-the-origin-of-hello-world-61bfe98196d5#:~:text=Kernighan%20first%20wrote%20the%20%E2%80%9CHello,it%20for%20the%20B%20tutorial." title="The history of Hello World!">Hello World!</a> - I'm Daniel Naranjo</h1>
+<h1> <a href="https://excelwithbusiness.com/blog/say-hello-world-in-28-different-programming-languages/" title="Hello World! in 28 programming languages">🖖🏼</a> <a href="https://ozanerhansha.medium.com/on-the-origin-of-hello-world-61bfe98196d5#:~:text=Kernighan%20first%20wrote%20the%20%E2%80%9CHello,it%20for%20the%20B%20tutorial." title="The history of Hello World!">Hello World!</a> - I'm Daniel Naranjo</h1>
 
  
 <table>
