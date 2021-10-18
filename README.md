@@ -45,7 +45,7 @@
     
   </tr>
   <tr>
-    <td align="center"><a href="https://www.youtube.com/channel/UCXI9ylISm-j6Zys7hgCU2SQ/featured">Youtube</td>
+    <td align="center"><a href="https://www.youtube.com/channel/UCXI9ylISm-j6Zys7hgCU2SQ/playlists">Youtube</td>
     <td>Videos of my perspective on economics, trading, coding, history, lifting, or anecdote analysis</td>
     
   </tr>
