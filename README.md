@@ -61,6 +61,10 @@
   <td align="center"><a href="https://www.amazon.com/hz/wishlist/ls/2RFCDWG6Y7QGR?ref_=wl_share">Books</td>
   <td>Check out my favorite audiobooks or hardcovers. I keep adding more now and then</td>
   </tr>
+    <tr>
+  <td align="center"><a href="https://github.com/PompaDonpa/PompaDonpa/edit/main/README.md">Resources</td>
+     <td><a href="https://github.com/PompaDonpa/WhiteBoard">‣ </a>WhiteBoard&ensp;<a href="https://github.com/PompaDonpa/DS-MasterNotes">‣ </a>DS-MasterNotes&emsp;<a href="https://github.com/PompaDonpa/Conferences">‣ </a>Videoteca&emsp;<a href="https://github.com/PompaDonpa/Conferences">‣ </a>Scripts</td>
+  </tr>
 </table>
 
 
