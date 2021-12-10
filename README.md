@@ -63,7 +63,7 @@
   </tr>
     <tr>
   <td align="center"><a href="https://github.com/PompaDonpa">Resources</td>
-     <td><a href="https://github.com/PompaDonpa/WhiteBoard">‣ </a>WhiteBoard&ensp;<a href="https://github.com/PompaDonpa/DS-MasterNotes">‣ </a>DS-MasterNotes&emsp;<a href="https://github.com/PompaDonpa/Conferences">‣ </a>Videoteca&emsp;<a href="https://github.com/PompaDonpa/Conferences">‣ </a>Scripts</td>
+     <td><a href="https://github.com/PompaDonpa/WhiteBoard">‣ </a>WhiteBoard&ensp;<a href="https://github.com/PompaDonpa/DS-MasterNotes">‣ </a>DS•MasterNotes&ensp;<a href="https://github.com/PompaDonpa/Conferences">‣ </a>VideoStack&ensp;<a href="https://github.com/PompaDonpa/Conferences">‣ </a>CodeSnippets</td>
   </tr>
 </table>
 
@@ -72,22 +72,17 @@
 
 <br />
 
-<!-- <h3 align="left"><span>&ensp;&ensp;&ensp;&emsp;</span>» Contributions</h3> -->
 
-<h3 align="right"><details><summary>Metrics&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&emsp;&ensp;</summary>
+<h3 align="right"><details><summary>Metrics&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&emsp;</summary>
  
 <div align="center">
  
- <br />
- 
- 
- <img src="https://metrics.lecoq.io/PompaDonpa?template=classic&repositories.forks=true&isocalendar=1&languages=1&achievements=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=manager%2C%20packager%2C%20worker%2C%20sponsor%2C%20chatter%2C%20helper&config.timezone=America%2FNew_York&config.twemoji=true&config.display=large" width="86%" height="auto" />
- 
- 
-<!--  ![Metrics](https://metrics.lecoq.io/PompaDonpa?template=classic&repositories.forks=true&base.metadata=0&languages=1&skyline=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=manager%2C%20packager%2C%20worker%2C%20sponsor%2C%20chatter%2C%20helper&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&config.timezone=America%2FNew_York&config.twemoji=true&config.display=large) -->
+ <img src="https://github.com/PompaDonpa/PompaDonpa/blob/main/github-metrics.svg" width="86%" height="auto" />
  
  </div>
  
 </details>
  &ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&emsp;
 </h3> 
+
+
