@@ -13,7 +13,7 @@
   <td>
       <ul>
         <br></br>
-      <li>Full Stack Web Developer 7.1 Fellow at <a href="https://www.pursuit.org/" target="_blank" style="italic">Pursuit.org</a> </li>
+      <li>Full Stack Web Developer 7.1 Alumni of <a href="https://www.pursuit.org/" target="_blank" style="italic">Pursuit.org</a> </li>
       <li>AI - Theory of Mind, Reacting Machines</li>
       <li>Blockchain technology advocate</li>
       <li>UI / UX , Database designer</li>
@@ -25,7 +25,7 @@
 <td style="width:100%">
 
 <ul>
-      <li>I'm currently working as part-time <a href="https://www.uber.com/" style="italic">Uber</a> driver</li>
+      <li>I'm currently working on android development at<a href="https://www.uber.com/" style="italic"> Uber</a></li>
       <li>I trade <b>Forex</b> in the <a href="https://www.babypips.com/learn/forex/london-session">London</a> session everyday</li>
       <li><dt>Ask me anything about <a href="https://ethereum.org/en/" style="italic">Ethereum</a> & <a href="https://bitcoinfoundation.org/">Bitcoin</a></dt><dl><i>&emsp;&ensp;ETH Wallet :</i><dd>&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;<a href="https://etherscan.io/address/0x64f0d67fbfa4275dcc3d461202268e073babe971">pompa-donpa.eth</a></dd></li>
 
