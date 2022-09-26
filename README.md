@@ -63,7 +63,7 @@
   </tr>
     <tr>
   <td align="center"><a href="https://github.com/PompaDonpa">Resources</td>
-     <td><a href="https://github.com/PompaDonpa/WhiteBoard">‣ </a>WhiteBoard&ensp;<a href="https://github.com/PompaDonpa/DS-MasterNotes">‣ </a>DS•MasterNotes&ensp;<a href="https://github.com/PompaDonpa/Conferences">‣ </a>VideoStack&ensp;<a href="https://github.com/PompaDonpa/CodeSnippets">‣ </a>CodeSnippets&ensp;<a href="https://pompadonpa.github.io/Pins/">‣ </a>Pins</td>
+     <td><a href="https://github.com/PompaDonpa/WhiteBoard">‣ </a>WhiteBoard&ensp;<a href="https://github.com/PompaDonpa/DS-MasterNotes">‣ </a>DS•MasterNotes&ensp;<a href="https://github.com/PompaDonpa/Conferences">‣ </a>VideoStack&ensp;<a href="https://github.com/PompaDonpa/CodeSnippets">‣ </a>CodeSnippets&ensp;<a href="https://pompadonpa.github.io/Pins/">‣ </a>Pins&ensp;<a href="https://github.com/PompaDonpa/Dotfiles">‣ </a>Dotfiles</td>
   </tr>
 </table>
 
